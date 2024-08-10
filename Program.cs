@@ -3,7 +3,6 @@
     public static void Main(string[] args)
     {
         string name, course, major, studentNumber;
-        int attempt = 0;
 
         while (true)
         {
